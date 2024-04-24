@@ -1,23 +1,28 @@
 ## Here's the screen shot of my website:
 ### Home Page:
-![Screenshot 2024-04-10 201447](https://github.com/Adityason/News-Application/assets/114166101/91e4bc60-bde6-43c6-bdd8-b475f18734ac)
+![Screenshot 2024-04-10 201447](https://github.com/AdityaPatadiya/News-Application-with-ReactJS-and-MongoDB/assets/161931434/aca1d248-08b6-4418-8bf4-824626f8636c)
+
 
 ### Contact Us Page:
-![Screenshot 2024-04-10 201609](https://github.com/Adityason/News-Application/assets/114166101/fb8c2865-ed6d-488e-97ae-6e148fb181fe)
+![Screenshot 2024-04-10 201609](https://github.com/AdityaPatadiya/News-Application-with-ReactJS-and-MongoDB/assets/161931434/26e06e50-e021-4fc8-bb27-428614c19322)
+
 
 ### About Us Page:
-![Screenshot 2024-04-10 201627](https://github.com/Adityason/News-Application/assets/114166101/00397af3-1463-4e91-9831-88d6a47ba363)
+![Screenshot 2024-04-10 201627](https://github.com/AdityaPatadiya/News-Application-with-ReactJS-and-MongoDB/assets/161931434/f7e536df-55f4-4410-92e4-f4c6ad3565d4)
+
 
 ### Login page:
-![Screenshot 2024-04-10 201638](https://github.com/Adityason/News-Application/assets/114166101/6a703447-4642-40e7-9740-1d830064d92c)
-![Screenshot 2024-04-10 201708](https://github.com/Adityason/News-Application/assets/114166101/6829b73c-5684-4de7-a474-2eca9360cf54)
+![Screenshot 2024-04-10 201638](https://github.com/AdityaPatadiya/News-Application-with-ReactJS-and-MongoDB/assets/161931434/0e680952-9901-4ca6-94d2-086868c0849f)
+
 
 ### SignUp Page:
-![Screenshot 2024-04-10 202017](https://github.com/Adityason/News-Application/assets/114166101/2db989c5-c7ac-4212-a677-3a782db8ef64)
+![Screenshot 2024-04-10 202017](https://github.com/AdityaPatadiya/News-Application-with-ReactJS-and-MongoDB/assets/161931434/a21c32e3-7686-474a-a0c9-e871b0bdad6a)
+
 
 ### Some of the news categories I've include for my project:
-![Screenshot 2024-04-10 201551](https://github.com/Adityason/News-Application/assets/114166101/5b0ba66a-821b-4db9-a3d5-9219ce9e2e2b)
-![Screenshot 2024-04-10 202917](https://github.com/Adityason/News-Application/assets/114166101/78a9b275-6621-40bb-bd30-cb38dfbcf3ab)
+![Screenshot 2024-04-10 202917](https://github.com/AdityaPatadiya/News-Application-with-ReactJS-and-MongoDB/assets/161931434/f10e7de5-e72d-468b-98f0-4d8f52d75a91)
+![Screenshot 2024-04-10 201551](https://github.com/AdityaPatadiya/News-Application-with-ReactJS-and-MongoDB/assets/161931434/23cdabfe-be3d-4887-9e93-98a0999cef27)
+
 
 ## What Technologies I use to my website:
 1) ReactJS
