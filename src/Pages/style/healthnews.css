@@ -1,0 +1,58 @@
+.grid {
+    display: grid;
+    grid-gap: 3px; 
+}
+
+.grid-item {
+    margin-bottom: 3px; 
+    width: 100%; 
+}
+
+
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+    transition: 0.3s;
+}
+
+.card:hover{
+    box-shadow: 0px 0px 200px rgb(198, 197, 197);
+    transition: 0.5s;
+}
+
+.card-img-top {
+    width: 100%;
+    height: auto; 
+}
+
+.card-body {
+    padding: 10px;
+}
+
+.card-title {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.card-text {
+    max-height: 3.4em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.btn-warning{
+    box-shadow: -3px 3px rgb(0, 0, 36);
+    transition: 0.1s;
+}
+
+.btn-warning:hover{
+    background-color: rgb(0, 0, 36);
+    color: white;
+    border: rgb(0, 0, 36);
+}
+
+.btn-warning:active{
+    box-shadow: 0px 0px rgb(0, 0, 36);
+    transition: 0.1s;
+}

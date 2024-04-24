@@ -1,0 +1,15 @@
+.brand-name {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.navbar-nav {
+    margin: auto;
+}
+
+.nav-item {
+    margin-right: 10px;
+}
+.nav-link.active {
+    text-decoration: underline; /* Add underline to active links */
+}
