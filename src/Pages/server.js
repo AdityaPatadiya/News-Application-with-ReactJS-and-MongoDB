@@ -13,7 +13,7 @@ const connectDB = async (uri) => {
         .then(() => console.log('Database Conneected!'))
         .catch((err) => console.log(err))
 }
-connectDB('mongodb+srv://aadityasoni901:4K2NbetlqCEgH8j0@cluster1.zois6gr.mongodb.net/');
+connectDB(Mongodb_database_connection_string);
 
 // Define user schema
 const userSchema = new mongoose.Schema({
