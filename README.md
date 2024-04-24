@@ -31,7 +31,7 @@
 2) Create a cluster.
 3) Create a database.
 4) click on connect to get the link to connect your code to the database.
-5) you'll get the link that you have to add to the [server.js file](src/Pages/server/js) file in src/Pages at "connectDB(Mongodb_database_connection_string)"
+5) you'll get the link that you have to add to the [server.js](https://github.com/AdityaPatadiya/News-Application-with-ReactJS-and-MongoDB/blob/main/src/Pages/server.js) file in src/Pages at `connectDB(Mongodb_database_connection_string)`
 6) change the `<password>` section and add your actual "password" that you set for your database.
 
 ## How to run the website
