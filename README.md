@@ -43,6 +43,6 @@
 1) go to the src folder using `cd src`
 2) go to the Pages folder using `cd Pages`
 3) start the server from the server.js file. type `node server.js` to run the main file and it will show the output like below.
-![image](https://github.com/Adityason/News-Application/assets/114166101/a0fe14bf-f452-4814-99af-22d1264495ef)
-4) Then open new terminal and type `npm start` to run the reactJS files.
-5) you'll get the output as you see above images.
+   ![Screenshot 2024-04-24 101200](https://github.com/AdityaPatadiya/News-Application-with-ReactJS-and-MongoDB/assets/161931434/a121d194-78c5-45b0-99d7-68925dca4ddf)
+5) Then open new terminal and type `npm start` to run the reactJS files.
+6) you'll get the output as you see above images.
